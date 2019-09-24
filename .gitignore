@@ -35,3 +35,11 @@
 .idea
 bin
 obj
+lib
+
+# cmake
+CMakeFiles/
+cmake-build-debug/
+
+# submodules
+googletest
